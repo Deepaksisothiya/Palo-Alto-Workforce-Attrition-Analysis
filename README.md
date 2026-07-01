@@ -47,19 +47,18 @@ This project analyzes employee attrition patterns at Palo Alto Networks using Py
 - Promotion Stagnation Impact
 - Education Field Wise Attrition
 - Tenure Group Wise Attrition
-
-## 👨‍💻 Author
 ## 📸 Dashboard Preview
 
 ### Dashboard Overview
-![Dashboard Overview](Palo Alto1.PNG)
+![Dashboard Overview](Palo%20Alto1.PNG)
 
 ### Department Analysis
-![Department Analysis](Palo Alto2.PNG)
+![Department Analysis](Palo%20Alto2.PNG)
 
 ### Demographic Analysis
-![Demographic Analysis](Palo Alto3.PNG)
+![Demographic Analysis](Palo%20Alto3.PNG)
 
 ### Workload Analysis
-![Workload Analysis](Palo Alto4.PNG)
+![Workload Analysis](Palo%20Alto4.PNG)
+## 👨‍💻 Author
 Deepak Yadav
