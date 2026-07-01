@@ -49,5 +49,17 @@ This project analyzes employee attrition patterns at Palo Alto Networks using Py
 - Tenure Group Wise Attrition
 
 ## 👨‍💻 Author
+## 📸 Dashboard Preview
 
+### Dashboard Overview
+![Dashboard Overview](screenshots/Palo Alto1.PNG)
+
+### Department Analysis
+![Department Analysis](screenshots/Palo Alto2.PNG)
+
+### Demographic Analysis
+![Demographic Analysis](screenshots/Palo Alto3.PNG)
+
+### Workload Analysis
+![Workload Analysis](screenshots/Palo Alto4.PNG)
 Deepak Yadav
