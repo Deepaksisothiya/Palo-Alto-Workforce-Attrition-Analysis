@@ -52,14 +52,14 @@ This project analyzes employee attrition patterns at Palo Alto Networks using Py
 ## 📸 Dashboard Preview
 
 ### Dashboard Overview
-![Dashboard Overview](screenshots/Palo Alto1.PNG)
+![Dashboard Overview](Palo Alto1.PNG)
 
 ### Department Analysis
-![Department Analysis](screenshots/Palo Alto2.PNG)
+![Department Analysis](Palo Alto2.PNG)
 
 ### Demographic Analysis
-![Demographic Analysis](screenshots/Palo Alto3.PNG)
+![Demographic Analysis](Palo Alto3.PNG)
 
 ### Workload Analysis
-![Workload Analysis](screenshots/Palo Alto4.PNG)
+![Workload Analysis](Palo Alto4.PNG)
 Deepak Yadav
